@@ -1,3 +1,0 @@
-# My Project
-This is a test file.
-It contains some content.
